@@ -15,12 +15,11 @@ programa
 			escreva("Detonação em ", contador)
 			Util.aguarde(1000)
 			limpa()}
-			
+			escreva("BOOOOM")
 			}
 			senao se(senha != senha1){
 				escreva("senha incorreta")
 			}
-			escreva("BOOOOM")
 			
 	}
 	
