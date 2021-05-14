@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<!--linkado no css-->
+<link href="estilos/principal.css" rel="stylesheet" type="text/css">
+<!--linguagem do doc-->
+<html lang="pt-br">
+    <!--nome no navegador-->
+    <title>Felipe Dantas</title>
+    <!--cabeçalho-->
+    <head>
+        <!--linguagem padrão de codigo-->
+        <meta charset="utf-8">
+        <!--logo no navegador-->
+        <link rel="shortcut icon" href="prints/logonavegadorsemfundo.png" type="image/x-icon">
+    </head>
+<body>
+    <header>  
+        <!--nome no site-->
+        <h1>Felipe Dantas do Nascimento</h1>
+    </header>
+<section>
+        <header>
+            <!--nome para os links-->
+            <h2>Acesse minhas redes</h2>
+        </header>
+        <section>
+            <!--logo la no navegador-->
+            <img class="img" src="prints/Perfil.png" width="150"/>
+        </section>
+</section>
+    <article> 
+        <header>
+    <h3>
+        <!--link das redes sociais-->
+        <ul><a href="https://www.linkedin.com/in/contatofelipedantas/" target="_blank">Linkedin</a></ul>
+
+        <ul><a href="https://www.instagram.com/___aryz/" target="_blank">Instagram</a></ul>
+        
+        <ul><a href="https://contato.felipedantas@gmail.com" target="_blank">Meu Email</a></ul>
+
+        <ul><a href="https://github.com/Dvntzz" target="_blank">Github</a></ul>
+        
+        <ul><a href="11932592611" target="_bl">Número para contato</a></ul>
+    </h3>
+        </header> 
+    </article>
+    <!--rodapé-->
+    <footer>
+<h4>em desenvolvimento</h4>
+</footer>
+</body>
+</html>
