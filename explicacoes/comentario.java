@@ -1,6 +1,6 @@
 package explicacoes;
 
-public class cometario {
+public class comentario {
 	
 	//comentario em linha ou inline
 	
